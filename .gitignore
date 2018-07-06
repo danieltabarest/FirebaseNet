@@ -3,3 +3,7 @@
 ################################################################################
 
 /ConsoleApp1/obj/Debug
+/ConsoleApp1/bin/Debug
+/.vs/FirebaseNet/v15/Server/sqlite3
+/packages/Newtonsoft.Json.10.0.1
+/src/FirebaseNet/bin/Debug/netstandard1.1

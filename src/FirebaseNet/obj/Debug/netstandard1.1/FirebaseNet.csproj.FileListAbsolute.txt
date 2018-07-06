@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\bin\Debug\netstandard1.1\FirebaseNet.deps.json
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\bin\Debug\netstandard1.1\FirebaseNet.dll
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\bin\Debug\netstandard1.1\FirebaseNet.pdb
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\bin\Debug\netstandard1.1\FirebaseNet.xml
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.AssemblyInfo.cs
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.dll
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.xml
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.pdb
+C:\Users\Admin\Downloads\firebaseNet\a\src\FirebaseNet\obj\Debug\netstandard1.1\FirebaseNet.csprojResolveAssemblyReference.cache
